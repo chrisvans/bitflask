@@ -1,0 +1,1 @@
+web: gunicorn bitlink:app --log-file=-
